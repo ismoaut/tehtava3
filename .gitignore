@@ -1,1 +1,3 @@
-sfs
+*.in
+*.out
+*.pyc
